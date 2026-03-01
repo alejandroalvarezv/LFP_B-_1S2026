@@ -3,7 +3,8 @@
 
 using namespace std;
 
-class Estudiante {
+class Estudiante
+{
 public:
     string carnet;
     string nombre;
@@ -11,7 +12,8 @@ public:
     string carrera;
     int semestre;
 
-    Estudiante(string _carnet, string _nombre, string _apellido, string _carrera, int _semestre) {
+    Estudiante(string _carnet, string _nombre, string _apellido, string _carrera, int _semestre)
+    {
         carnet = _carnet;
         nombre = _nombre;
         apellido = _apellido;
