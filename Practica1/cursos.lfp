@@ -1,2 +1,30 @@
-101,Programacion 1,5,3,Sistemas
-102,Matematica 2,5,2,Sistemas
+101,Programacion 1,5,1,Sistemas
+102,Calculo 1,5,1,Sistemas
+103,Fisica 1,5,2,Sistemas
+104,Programacion 2,5,2,Sistemas
+105,Lenguajes Formales,5,3,Sistemas
+106,Bases de Datos 1,4,4,Sistemas
+107,Inteligencia Artificial,5,7,Sistemas
+108,Compiladores 1,5,8,Sistemas
+109,Redes de Computadoras,4,6,Sistemas
+110,Sistemas Operativos,5,5,Sistemas
+201,Introduccion Civil,3,1,Civil
+202,Topografia 1,4,2,Civil
+203,Materiales de Construccion,5,3,Civil
+204,Analisis Estructural 1,5,5,Civil
+205,Hidraulica,4,6,Civil
+206,Geotecnia,4,7,Civil
+207,Diseno de Puentes,5,9,Civil
+208,Caminos 1,4,4,Civil
+209,Mecanica de Suelos,5,5,Civil
+210,Ingenieria Ambiental,3,8,Civil
+301,Introduccion Industrial,3,1,Industrial
+302,Economia 1,4,2,Industrial
+303,Procesos Industriales,5,3,Industrial
+304,Investigacion de Operaciones,5,5,Industrial
+305,Control de Calidad,4,6,Industrial
+306,Logistica,4,7,Industrial
+307,Seguridad Industrial,3,4,Industrial
+308,Contabilidad de Costos,4,3,Industrial
+309,Produccion 1,5,5,Industrial
+310,Gerencia Industrial,5,10,Industrial

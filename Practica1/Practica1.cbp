@@ -32,13 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Curso.cpp">
-			<Option compile="0" />
-			<Option link="0" />
-		</Unit>
+		<Unit filename="Curso.cpp" />
 		<Unit filename="Estudiante.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Nota.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
